@@ -1,1 +1,1 @@
-[Suebersson montalvão](mailto: suebersson.dev@gmail.com)
+[Suebersson montalvão](<mailto: suebersson.dev@gmail.com>)
